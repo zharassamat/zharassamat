@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zharas
-- 👀 I’m interested in Android Native Development
+- 👀 I’m interested in Android Native Development and KMP
 - 📫 You can reach me via gmail: samatuly.zharas@gmail.com
 
 <!---
